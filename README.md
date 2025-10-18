@@ -15,13 +15,6 @@ Today.js is a comprehensive, functional-style date manipulation library designed
 - **Business Logic Built-in** - Business days, quarters, fiscal periods
 - **Multiple Format Support** - ISO, SQL, Unix, Excel, and custom formats
 
-## 📦 Installation
-
-```bash
-npm install today-js
-# or
-yarn add today-js
-```
 
 ## 🚀 Quick Start
 
