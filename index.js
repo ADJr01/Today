@@ -1,6 +1,6 @@
 // today.js - Core Module
 import { formatDate, formatLong, formatShort, parseFormatString } from './formatter.js';
-import { getLastNDays, getLastNWeeks, getLastNMonths, getNDaysAgo, getNWeeksAgo, getNMonthsAgo, getNYearsAgo } from './navigator.js.js';
+import { getLastNDays, getLastNWeeks, getLastNMonths, getNDaysAgo, getNWeeksAgo, getNMonthsAgo, getNYearsAgo } from './navigator.js';
 import { timeDiff, add, subtract, isBefore, isAfter, isSame, isBetween } from './calculator.js';
 import {
   isOddDate,
