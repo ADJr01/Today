@@ -1,6 +1,6 @@
 # Today.js 🚀
 
-**A World-Class, Modular JavaScript Date & Time Library**
+**A Modular JavaScript Date & Time Library**
 
 Today.js is a comprehensive, functional-style date manipulation library designed to be a complete replacement for JavaScript's native Date object. Built with modularity, performance, and developer experience in mind.
 
